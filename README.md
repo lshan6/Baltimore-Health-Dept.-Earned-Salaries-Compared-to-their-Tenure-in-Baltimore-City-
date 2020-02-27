@@ -1,4 +1,4 @@
-# Baltimore-Health-Dept.-Earned-Salaries-Compared-to-their-Tenure-in-Baltimore-City-
+# Earned-Salaries-Compared-to-their-Tenure-in-Baltimore-City-
 
 Using open data from Open Baltimore to predict the annual earned salary based on the tenure in Excel
 ## Background
