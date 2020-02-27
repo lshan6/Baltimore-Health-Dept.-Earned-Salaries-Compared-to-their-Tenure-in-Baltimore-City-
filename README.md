@@ -17,3 +17,5 @@ The chart below shows the relationship between the tenure and annual earned sala
 ![alt text](https://github.com/lshan6/Baltimore-Health-Dept.-Earned-Salaries-Compared-to-their-Tenure-in-Baltimore-City-/blob/master/baltimore%20city.PNG)
 
 The chart below shows the relationship between the tenure and annual earned salary for General Services department:
+
+![alt text](https://github.com/lshan6/Baltimore-Health-Dept.-Earned-Salaries-Compared-to-their-Tenure-in-Baltimore-City-/blob/master/generalservices.PNG)
