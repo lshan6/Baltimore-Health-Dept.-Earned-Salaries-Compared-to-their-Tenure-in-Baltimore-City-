@@ -9,5 +9,5 @@ Open Baltimore contains salary data for each officers working in the government.
 ## Conclusion
 The following chart shows the relationship between the tenure and annual earned salary.
 
-![alt text](https://github.com/lshan6/comparing-baltimore-seattle-household-income/blob/master/chart.PNG)
+![alt text](https://github.com/lshan6/Baltimore-Health-Dept.-Earned-Salaries-Compared-to-their-Tenure-in-Baltimore-City-/blob/master/baltimore%20city.PNG)
 
